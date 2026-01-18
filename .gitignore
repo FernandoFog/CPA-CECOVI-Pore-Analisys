@@ -1,9 +1,9 @@
 ﻿# Ignorar todo por defecto
 *
 
-# Permitir carpetas (y su contenido)
-!backened_poros/
-!backened_poros/**
+!backend_poros/
+!backend_poros/**
+
 
 !dist/
 !dist/**
