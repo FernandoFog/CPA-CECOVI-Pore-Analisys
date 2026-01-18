@@ -1,0 +1,19 @@
+﻿# Ignorar todo por defecto
+*
+
+# Permitir carpetas (y su contenido)
+!backened_poros/
+!backened_poros/**
+
+!dist/
+!dist/**
+
+# Permitir archivos específicos
+!main.py
+!help_window.py
+!icono.ico
+!requirements.txt
+
+# Permitir también estos archivos
+!.gitignore
+!.gitattributes
