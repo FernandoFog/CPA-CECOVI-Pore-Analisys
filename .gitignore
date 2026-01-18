@@ -17,3 +17,8 @@
 # Permitir también estos archivos
 !.gitignore
 !.gitattributes
+
+# No subir caché de Python
+backend_poros/__pycache__/
+**/__pycache__/
+*.pyc
